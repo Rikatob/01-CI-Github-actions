@@ -81,6 +81,9 @@ class ReallyShakyBankingCoreSystemService implements BankingCoreSystmeService {
         if (Math.random() <= panicProbability) {
             System.exit(-1);
         
+            int jalla = "syyyyk kompileringsfeil!"
+        }
+        
     }
 
 
